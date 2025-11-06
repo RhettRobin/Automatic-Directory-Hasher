@@ -10,6 +10,8 @@ Set the value of HASH_DIR equal to the directory that the observer should be wat
 
 Set the value of META_DIR equal to the directory where you would like the .par file to be written and updated 
 
+Run code, tool will run until terminal or session is closed
+
 # Future functionality
 
 -Multi directory selection
